@@ -10,6 +10,5 @@
 
  printf("%f",x);
 
-   /* printf("enter some valid for x")
-     scanf("%f",)*/
+
 }
